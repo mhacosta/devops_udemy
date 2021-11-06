@@ -1,4 +1,4 @@
-﻿package com.paymentchain.billing;
+package com.paymentchain.billing;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -11,8 +11,9 @@ public class BasicApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		    	String message= “default message cambio 11”;
-			Assert.assertNotNull(message);
+		String message= "deffault message cambio 11";
+		Assert.assertNotNull(message);
+
 	}
 
 }
